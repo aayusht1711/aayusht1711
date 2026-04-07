@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Aayush+Tripathi;BCA+AIML+Student;Python+Developer;Machine+Learning+Explorer;Cricket+Analytics+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Aayush+Tripathi;BCA+AIML+Student;Python+Developer;Machine+Learning+Explorer" />
 </p>
 
 ---
@@ -109,7 +109,7 @@ Focused on real insights and practical implementation.
 <h2 align="center">📫 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK">
+  <a href="linkedin.com/in/aayush-tripathi-4704b9268">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
