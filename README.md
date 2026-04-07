@@ -1,15 +1,78 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Aayush+Tripathi;Python+Developer;Machine+Learning+Enthusiast;Cricket+Analytics+Builder;Sports+%2B+Technology+Lover" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Aayush+Tripathi;BCA+AIML+Student;Python+Developer;Machine+Learning+Explorer;Cricket+Analytics+Builder" />
 </p>
 
 ---
 
 <h2 align="center">🚀 About Me</h2>
 
+<table align="center">
+<tr>
+<td>
+
+### 👨‍💻 Profile
+
+* **Name:** Aayush Tripathi
+* **Role:** BCA AIML Student
+* **Focus:** Machine Learning & Data Projects
+* **Location:** India 🇮🇳
+
+</td>
+
+<td>
+
+### 🧠 Core Skills
+
+* **Languages:** Python, C++
+* **Data:** Pandas, NumPy
+* **ML:** Scikit-learn, Basic Models
+* **Web:** Flask, HTML, CSS
+* **Tools:** Git, GitHub
+
+</td>
+</tr>
+</table>
+
+---
+
 <p align="center">
-Hi, I'm Aayush Tripathi — A student passionate about sports and technology.<br>
-I build real-world projects using Python and Machine Learning, focusing on practical solutions and data-driven insights.
+💡 Curious about data, driven by logic, and focused on building real-world solutions through Machine Learning and Python.
 </p>
+
+---
+
+<h2 align="center">🎯 Current Focus</h2>
+
+<table align="center">
+<tr>
+<td align="center">🚀 <b>Building</b></td>
+<td align="center">📚 <b>Learning</b></td>
+<td align="center">🧠 <b>Improving</b></td>
+<td align="center">🎯 <b>Goals</b></td>
+</tr>
+
+<tr>
+<td align="center">Cricket ML Project</td>
+<td align="center">Machine Learning</td>
+<td align="center">Problem Solving</td>
+<td align="center">Become ML Engineer</td>
+</tr>
+
+<tr>
+<td align="center">Data Analysis Tools</td>
+<td align="center">Data Science</td>
+<td align="center">DSA</td>
+<td align="center">Strong Portfolio</td>
+</tr>
+
+<tr>
+<td align="center">Mini Python Apps</td>
+<td align="center">Model Building</td>
+<td align="center">Logical Thinking</td>
+<td align="center">Real-world Impact</td>
+</tr>
+
+</table>
 
 ---
 
@@ -25,33 +88,8 @@ I build real-world projects using Python and Machine Learning, focusing on pract
 
 <p align="center">
 <b>Cricket Data Analysis & Prediction</b><br>
-Analyzing match data and predicting performance using Machine Learning.<br>
-Built with Python, Pandas, and Scikit-learn.
-</p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://stats.dooboo.io/api?username=aayusht1711&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aayusht1711&theme=tokyonight" />
-</p>
-
----
-
-<h2 align="center">📈 Top Languages</h2>
-
-<p align="center">
-  <img src="https://stats.dooboo.io/api/top-langs/?username=aayusht1711&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-<h2 align="center">📈 Activity Graph</h2>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aayusht1711&theme=tokyonight" />
+Using Machine Learning to analyze match data and predict performance.<br>
+Focused on real insights and practical implementation.
 </p>
 
 ---
@@ -71,7 +109,7 @@ Built with Python, Pandas, and Scikit-learn.
 <h2 align="center">📫 Connect With Me</h2>
 
 <p align="center">
-  <a href="linkedin.com/in/aayush-tripathi-4704b9268">
+  <a href="https://linkedin.com/in/YOUR-LINK">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
@@ -79,7 +117,7 @@ Built with Python, Pandas, and Scikit-learn.
 ---
 
 <p align="center">
-⭐ Turning data into insights | Building real-world solutions
+⚡ Building skills today to create intelligent solutions tomorrow
 </p>
 
 
