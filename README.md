@@ -7,7 +7,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-Hi, I'm Aayush Tripathi — A student passionate about sports and technology.<br>
+Hi, I'm Aayush Tripathi — a B.Tech student passionate about sports and technology.<br>
 I build real-world projects using Python and Machine Learning, focusing on practical solutions and data-driven insights.
 </p>
 
@@ -34,7 +34,7 @@ Built with Python, Pandas, and Scikit-learn.
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayusht1711&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aayusht1711&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://streak-stats.demolab.com?user=aayusht1711&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -43,7 +43,7 @@ Built with Python, Pandas, and Scikit-learn.
 <h2 align="center">📈 Top Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayusht1711&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aayusht1711&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -81,5 +81,6 @@ Built with Python, Pandas, and Scikit-learn.
 <p align="center">
 ⭐ Turning data into insights | Building real-world solutions
 </p>
+
 
 
