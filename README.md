@@ -1,50 +1,76 @@
-# Hi 👋, I'm Aayush Tripathi
-
-🎓 Student | 💻 Python Developer | Machine Learning 
-🚀 Building real-world projects with practical learning
-
----
-
-## 🚀 About Me
-
-* 🌱 Currently learning **Machine Learning & Artificial Intalligence 
-* 💡 Interested in **AI, Python & Machine Learning**
-* 🎯 Goal: Become a Software Developer and Machine Learning Engineer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Aayush+Tripathi;Python+Developer;Machine+Learning+Enthusiast;Cricket+Analytics+Builder;Sports+%2B+Technology+Lover" />
+</p>
 
 ---
 
-## 🛠️ Skills
+<h2 align="center">🚀 About Me</h2>
 
-### 👨‍💻 Programming
-
-* Python 🐍
-* C++
-
-### 📊 Data & ML
-
-* Pandas
-* NumPy
-* Scikit-learn
-
-### 🌐 Web
-
-* Flask
-* HTML, CSS
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=aayusht1711\&show_icons=true\&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com?user=aayusht1711\&theme=tokyonight)
+<p align="center">
+Hi, I'm Aayush Tripathi — Astudent passionate about sports and technology.<br>
+I build real-world projects using Python and Machine Learning, focusing on practical solutions and data-driven insights.
+</p>
 
 ---
 
-## 📫 Connect with Me
+<h2 align="center">🛠️ Tech Stack</h2>
 
-* LinkedIn: https://www.linkedin.com/in/aayush-tripathi-4704b9268/
-* Email: aayushtripathi75@gmail.com
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,flask,git,github" />
+</p>
 
 ---
 
-⭐ *“Small daily improvements = Big results”*
+<h2 align="center">🏏 Featured Project</h2>
+
+<p align="center">
+<b>Cricket Data Analysis & Prediction</b><br>
+Analyzing match data and predicting performance using Machine Learning.<br>
+Built with Python, Pandas, and Scikit-learn.
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aayusht1711&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=aayusht1711&theme=tokyonight" />
+</p>
+
+---
+
+<h2 align="center">📈 Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aayusht1711&theme=tokyo-night" />
+</p>
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aayusht1711/aayusht1711/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aayusht1711/aayusht1711/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/aayusht1711/aayusht1711/output/github-snake.svg" />
+</picture>
+</p>
+
+---
+
+<h2 align="center">📫 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+⭐ Turning data into insights | Building real-world solutions
+</p>
+
