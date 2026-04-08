@@ -81,9 +81,7 @@ Git • GitHub
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="linkedin.com/in/aayush-tripathi-4704b9268">
-    <img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  
 
   <a href="mailto:aayushtripathi75@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" />
