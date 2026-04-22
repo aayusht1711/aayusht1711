@@ -11,7 +11,7 @@
 ## 👋 Who am I?
 
 * 🎓 BCA AIML Student
-* 🧠 Exploring Machine Learning & Data Science
+* 🧠 Exploring Machine Learning & Artificial Inteligence 
 *  India
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
@@ -21,7 +21,7 @@
 ## 🧩 What I Work With
 
 💻 **Languages**
-Python • C++
+Python • C
 
 📊 **Data & ML**
 Pandas • NumPy • Scikit-learn
