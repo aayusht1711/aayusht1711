@@ -95,6 +95,6 @@ Git • GitHub
 ---
 
 <p align="center">
-💡 Learning today. Building intelligent solutions tomorrow.
+💡 Learning today. Building intelligent solutions tomorrow. Trying to become better than yesterday
 </p>
 
